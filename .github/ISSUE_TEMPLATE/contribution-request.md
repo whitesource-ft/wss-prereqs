@@ -7,8 +7,7 @@ assignees: ''
 
 ---
 
-**Tool:**  
-wss-prereqs
+**Tool:** wss-prereqs
 
 **Planned Changes:**  
 Describe the changes you wish to contribute, to initiate a discussion with WhiteSource-FT team.
