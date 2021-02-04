@@ -1,13 +1,13 @@
 ---
 name: Question
 about: General question/how-to
-title: "[Question] [wss-tool-name] Question Topic"
+title: "[Question] [wss-prereqs] Question Topic"
 labels: question
 assignees: ''
 
 ---
 
-**Question:**
+**Question:**  
 Ask your question here. Please be as specific as possible.
 
 **Environment Details:**
