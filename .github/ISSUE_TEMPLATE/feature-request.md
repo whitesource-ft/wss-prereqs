@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest an idea for this project
-title: "[FR] [wss-tool-name] Feature Short Description"
+title: "[FR] [wss-prereqs] Feature Short Description"
 labels: feature request
 assignees: ''
 
