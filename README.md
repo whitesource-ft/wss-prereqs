@@ -15,7 +15,7 @@ Download **wss-prereqs.ps1** and save it to your computer
 
 ### Linux
 Download **wss-prereqs.sh**, save it to your computer and make the file executable:  
-   `$ [sudo] chmod +x wss-prereqs.sh`  
+   `user@host:~/ws$ [sudo] chmod +x wss-prereqs.sh`  
 
 ## Execution
 ### Windows
