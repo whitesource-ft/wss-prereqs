@@ -1,3 +1,5 @@
+:no_entry: [DEPRECATED] This repository will be inaccessible starting January 9th, 2023.  
+
 ![Logo](https://whitesource-resources.s3.amazonaws.com/ws-sig-images/Whitesource_Logo_178x44.png)  
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
