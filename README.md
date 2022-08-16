@@ -4,12 +4,12 @@
 > The new repository is now active at **[https://github.com/mend-toolkit/mend-examples](https://github.com/mend-toolkit/mend-examples)**, which we encourage you to visit today.  
 ---
 
-![Logo](https://whitesource-resources.s3.amazonaws.com/ws-sig-images/Whitesource_Logo_178x44.png)  
+![Logo](https://resources.mend.io/mend-sig/logo/mend-dark-logo-horizontal.png)  
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub release](https://img.shields.io/github/release/whitesource-ft/wss-prereqs.svg)](https://github.com/whitesource-ft/wss-prereqs/releases/latest)  
-# WhiteSource Prerequisite Validator
-A small command line tool that validates all prerequisites for WhiteSource products.
+# Mend Prerequisite Validator
+A small command line tool that validates all prerequisites for Mend products.
 
 ## Supported Operating Systems
 - **Linux (Bash):**	CentOS, Debian, Ubuntu, RedHat
